@@ -13,3 +13,10 @@
 
 ## 📃Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaebong8&show_icons=true&theme=algolia)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaebong8&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaebong8&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaebong8&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaebong8&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaebong8&theme=dracula)
