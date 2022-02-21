@@ -4,9 +4,8 @@
 <a href="https://jaebong8it.tistory.com" target="_blank"><img src="https://img.shields.io/badge/blog-005571?style=for-the-badge&logo=Blogger&logoColor=white"/></a>
 <a href="https://jaebong8it.tistory.com" target="_blank"><img src="https://img.shields.io/badge/instagram-06062C?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <hr/>
-🖐Hi there!<br/>
-I'm Jae Hyun Park😄
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&color=%23FF645B&size=30&duration=3000&height=100&lines=Welcome+to+My+Github+Page;This+is+My+World+❤!;Enjoy!+🎈)](https://git.io/typing-svg)
 
 
 ## 💡Skills
